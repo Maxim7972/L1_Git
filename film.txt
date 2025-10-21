@@ -3,5 +3,9 @@ The Matrix, 1999, Neo
 Breaking Bad — сериал про Уолтера Уайта
 =======
 Shrek — мультфильм про зеленого огра
+<<<<<<< HEAD
 >>>>>>> unlikedFilm
 Breaking Bad — сериал про Уолтера Уайта
+=======
+Shrek — мультфильм про зеленого огра
+>>>>>>> unlikedFilm
